@@ -1,0 +1,25 @@
+*{
+    background-color: black;
+    text-decoration: none;
+    margin: 0;
+}
+ul { 
+   width: 100%;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+  }
+  
+  ul li {
+    color: rgb(123, 126, 126);
+    margin-top: -1px; /* Prevent double borders */
+    padding: 12px  
+  }
+
+  
+  li:hover{
+    background-color: rgb(27, 27, 26);
+    color: white;
+  }
+ 
